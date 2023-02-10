@@ -1,0 +1,31 @@
+body{
+    padding-top: 100px;
+}
+
+nav{
+    height:54px;
+    background-color: white !important;
+}
+
+.logo{
+    margin-left: 192px;
+}
+
+.ProfileLogo > img{
+    /*margin-left: 50px;*/
+    border-radius: 100%;
+}
+
+.profile1 > a{
+    border-color:red !important;
+}
+
+
+.instagramComment > p {
+    margin :0;
+
+}
+
+ul{
+    list-style-type: none;
+}
